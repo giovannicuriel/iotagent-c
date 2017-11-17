@@ -1,2 +1,3 @@
-# iotagent-c
-A minimal iotagent implemented in C
+# iotagent-json
+
+[![License](https://img.shields.io/badge/License-BSD%202--Clause-orange.svg)](https://opensource.org/licenses/BSD-2-Clause)
